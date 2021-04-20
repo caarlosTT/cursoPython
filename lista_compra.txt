@@ -2,4 +2,4 @@ Lista de la compra
 -platanos
 -peras
 -pan
--huevos
+-carne
