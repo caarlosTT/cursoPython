@@ -3,4 +3,3 @@ Lista de la compra
 -peras
 -pan
 -huevos
--pan
